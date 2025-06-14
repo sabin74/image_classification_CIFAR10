@@ -17,13 +17,13 @@ This project demonstrates how to build a deep learning image classifier using th
 
 ## 🚀 Model Architectures
 
-### ✅ Custom CNN
+### Custom CNN
 
 - 3 Convolutional blocks with MaxPooling
 - Batch Normalization and Dropout
 - Dense layers for final classification
 
-### ✅ Transfer Learning (VGG16)
+### Transfer Learning (VGG16)
 
 - `VGG16` with `include_top=False`
 - Input images resized to (224x224)
@@ -33,10 +33,10 @@ This project demonstrates how to build a deep learning image classifier using th
 
 ## 🛠️ Key Techniques
 
-- ✅ CNN Architecture
-- ✅ Data Augmentation
-- ✅ Regularization (Dropout, L2)
-- ✅ Batch Normalization
-- ✅ Transfer Learning
-- ✅ Callbacks (EarlyStopping, ModelCheckpoint)
-- ✅ Evaluation (Confusion Matrix, Classification Report)
+- CNN Architecture
+- Data Augmentation
+- Regularization (Dropout, L2)
+- Batch Normalization
+- Transfer Learning
+- Callbacks (EarlyStopping, ModelCheckpoint)
+- Evaluation (Confusion Matrix, Classification Report)
